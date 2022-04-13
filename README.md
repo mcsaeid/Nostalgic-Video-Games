@@ -15,40 +15,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63400670/162754659-25ef3072-356c-4221-a8f9-a0dc72158948.jpg" width="500" alt="Instagram post, 2015"/>
 </p>
-<br>
-
-## پیشینه
-من به‌طورعمده یک پی‌سی گیمرم. در بازه‌هایی کنسول داشته‌م، اما بیشترین و مهم‌ترین تجربه‌هام روی کامپیوتر رقم خورده. سیر تحول کنسول‌های من رو در تصویر زیر می‌بینید. برای دیدن تصویر با کیفیت اصلی [اینجا](https://imgur.com/a/RooWiv3) کلیک کنید.
-
-<br>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/63400670/162814487-7e28ca2a-5f54-4e39-a119-16a6534a0b96.jpg" width="500" alt="My console evolution"/>
-</p>
-<br>
-
-ازاونجایی‌که علاقهٔ خاصی به نوستالژی دارم، چیزهایی رو که ارزش معنوی برام دارن یک گوشه درون یک جعبه نگه می‌دارم—مثل رسید اولین کامپیوترم از شهریور ۱۳۸۴. واقعاً یادش بخیر.
-
-دو بار ارتقاش دادم. بار اول، بدون داشتن اطلاعات چندانی از سخت‌افزار، رم رو به یک گیگابایت ارتقا دادم، به امید اجرای بازی‌های جدیدتر، که ناموفق بودم. بار دوم، به‌کلی روی پلتفرم جدید DDR3 رفتم، به‌همراه یک کارت گرافیک قدرتمند. این‌ها اولین و آخرین عکس‌هایی‌ان که از کامپیوتر اولم دارم.
-
-<br>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/63400670/163274082-4d83f807-2d5a-46fb-8cb0-2016d1ea1b44.jpg" width="750" alt="First computer receipt and components"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/63400670/162814643-ac270c9c-3298-437d-9192-fabe3cb1bce3.jpg" width="750" alt="My first PC"/>
-</p>
-<br>
-
-همیشه دوست داشتم درمورد بازی‌های موردعلاقهٔ دوران کودکی و بزرگسالی‌ام صحبت کنم. این فهرست طولانی رو در دوران سختی نوشتم، و هدفم این بود که همه رو دوباره تجربه کنم. اینجا کوتاه به هرکدوم می‌پردازم.
-
-<br>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/63400670/162752943-2dcf29a3-63b3-4939-9afd-e3f85e1424af.jpg" width="600" alt="Games folder, August, 5, 2011"/>
-</p>
-
-<br>
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en" data-dnt="true" data-theme="light"><p lang="fa" dir="rtl">جعبهٔ خاطرات<br><br>البته تعداد عناوینی که داشتم بسیار بیشتر از این یه جعبه بودن، اما متأسفانه دوستان امانت‌داری نداشتم. درهرصورت، تک‌تک این‌ها یادآور روزهای خوب و شیرین نوجوونی‌ان.<br><br>شما با کدومشون خاطره دارید؟ <a href="https://t.co/M7zQW2f00d">pic.twitter.com/M7zQW2f00d</a></p>&mdash; MC Saeid (@mcsaeid) <a href="https://twitter.com/mcsaeid/status/1274811475408887808?ref_src=twsrc%5Etfw">June 21, 2020</a></blockquote>
 <br><br>
 <div dir="rtl">
 <details>
@@ -57,8 +23,7 @@
 <details>
 <summary><b>پیش‌گفتار</b></summary>
 
-#### [مقدمه](https://github.com/mcsaeid/Nostalgic-Video-Games#%D9%85%D9%82%D8%AF%D9%85%D9%87)
-#### [پیشینه](https://github.com/mcsaeid/Nostalgic-Video-Games#%D9%BE%DB%8C%D8%B4%DB%8C%D9%86%D9%87)
+#### [پیشینه](https://github.com/mcsaeid/Nostalgic-Video-Games#%D9%BE%DB%8C%D8%B4%DB%8C%D9%86%D9%87-1)
 <br>
 </details>
 <details>
@@ -387,6 +352,40 @@
 </details>
 <br>
 </div>
+
+## پیشینه
+من به‌طورعمده یک پی‌سی گیمرم. در بازه‌هایی کنسول داشته‌م، اما بیشترین و مهم‌ترین تجربه‌هام روی کامپیوتر رقم خورده. سیر تحول کنسول‌های من رو در تصویر زیر می‌بینید. برای دیدن تصویر با کیفیت اصلی [اینجا](https://imgur.com/a/RooWiv3) کلیک کنید.
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63400670/162814487-7e28ca2a-5f54-4e39-a119-16a6534a0b96.jpg" width="500" alt="My console evolution"/>
+</p>
+<br>
+
+ازاونجایی‌که علاقهٔ خاصی به نوستالژی دارم، چیزهایی رو که ارزش معنوی برام دارن یک گوشه درون یک جعبه نگه می‌دارم—مثل رسید اولین کامپیوترم از شهریور ۱۳۸۴. واقعاً یادش بخیر.
+
+دو بار ارتقاش دادم. بار اول، بدون داشتن اطلاعات چندانی از سخت‌افزار، رم رو به یک گیگابایت ارتقا دادم، به امید اجرای بازی‌های جدیدتر، که ناموفق بودم. بار دوم، به‌کلی روی پلتفرم جدید DDR3 رفتم، به‌همراه یک کارت گرافیک قدرتمند. این‌ها اولین و آخرین عکس‌هایی‌ان که از کامپیوتر اولم دارم.
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63400670/163274082-4d83f807-2d5a-46fb-8cb0-2016d1ea1b44.jpg" width="750" alt="First computer receipt and components"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63400670/162814643-ac270c9c-3298-437d-9192-fabe3cb1bce3.jpg" width="750" alt="My first PC"/>
+</p>
+<br>
+
+همیشه دوست داشتم درمورد بازی‌های موردعلاقهٔ دوران کودکی و بزرگسالی‌ام صحبت کنم. این فهرست طولانی رو در دوران سختی نوشتم، و هدفم این بود که همه رو دوباره تجربه کنم. اینجا کوتاه به هرکدوم می‌پردازم.
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63400670/162752943-2dcf29a3-63b3-4939-9afd-e3f85e1424af.jpg" width="600" alt="Games folder, August, 5, 2011"/>
+</p>
+
+<br>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en" data-dnt="true" data-theme="light"><p lang="fa" dir="rtl">جعبهٔ خاطرات<br><br>البته تعداد عناوینی که داشتم بسیار بیشتر از این یه جعبه بودن، اما متأسفانه دوستان امانت‌داری نداشتم. درهرصورت، تک‌تک این‌ها یادآور روزهای خوب و شیرین نوجوونی‌ان.<br><br>شما با کدومشون خاطره دارید؟ <a href="https://t.co/M7zQW2f00d">pic.twitter.com/M7zQW2f00d</a></p>&mdash; MC Saeid (@mcsaeid) <a href="https://twitter.com/mcsaeid/status/1274811475408887808?ref_src=twsrc%5Etfw">June 21, 2020</a></blockquote>
+<br><br>
 
 ## چالش‌ها
 
