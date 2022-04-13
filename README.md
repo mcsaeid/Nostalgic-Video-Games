@@ -32,7 +32,7 @@
 
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63400670/162814622-4263b9a9-a649-44a5-93c1-f2c3fe9101be.jpg" width="750" alt="First computer receipt and components"/>
+  <img src="https://user-images.githubusercontent.com/63400670/163274082-4d83f807-2d5a-46fb-8cb0-2016d1ea1b44.jpg" width="750" alt="First computer receipt and components"/>
 </p>
 
 <p align="center">
