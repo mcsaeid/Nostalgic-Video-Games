@@ -1736,7 +1736,7 @@ _لاکپشت‌های نینجا_ از مجموعه‌های موردعلاقه
 
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63400670/162851396-795a9177-4c83-4e0c-b6bc-76521f10bb59.jpg" width="500" alt="Splinter Cell- Conviction initial look"/>
+  <img src="https://user-images.githubusercontent.com/63400670/162851396-795a9177-4c83-4e0c-b6bc-76521f10bb59.jpg" width="500" alt="Splinter Cell: Conviction initial look"/>
 </p>
 <br>
 
