@@ -1236,14 +1236,14 @@ _همسایهٔ جهنمی_ از اون بازی‌هاست که حتی فکرک
 <br><br>
 ### ‏ ‎ _No One Lives Forever_ .۱۰۹
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63400670/162639900-26531743-6f6d-4366-b141-6a471f95147d.jpg" width="500" alt="No One Lives Forever, 2000, Monolith Productions"/>
+  <img src="https://user-images.githubusercontent.com/63400670/163243713-cf59722b-d6d9-43c1-9d07-a30b9d934002.jpg" width="500" alt="No One Lives Forever, 2000, Monolith Productions"/>
 </p>
 
 اولین تجربه‌م با نسخهٔ دومش بود، با دوبلهٔ فارسی، و به‌قدری تمیز و بی‌نظیر بود که عاشقش شدم. کیت آرچر خیلی زود به یکی از شخصیت‌های موردعلاقه‌م تبدیل شد. همیشه به بازی‌های مخفی‌کاری با روایت خوب علاقه داشتم، و _No One Lives Forever_ به‌هیچ‌عنوان ناامیدم نکرد.
 <br><br>
 ### ‏ ‎ _No One Lives Forever 2: A Spy in H.A.R.M.’s Way_ .۱۱۰
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63400670/162639904-63798137-3316-4f6d-aecd-5fff924738ba.jpg" width="500" alt="No One Lives Forever 2: A Spy in H.A.R.M.’s Way, 2002, Monolith Productions"/>
+  <img src="https://user-images.githubusercontent.com/63400670/163243720-fe4df489-13dd-4f71-b357-b7eea0167e5f.jpg" width="500" alt="No One Lives Forever 2: A Spy in H.A.R.M.’s Way, 2002, Monolith Productions"/>
 </p>
 
 یکی از بهترین تجربه‌هام با بازی‌های دوبله‌شده بود، که توسط گروه نوین‌پندار فارسی شده. نوشتهٔ «با صدای گویندگان منتخب رادیو و تلویزیون» روی [جلد بازی](https://oldpersiangames.org/games/no-one-lives-forever-2-a-spy-in-harms-way-novinpendar) بهترین توصیف ممکن بود. بازی به‌خودی‌خود محشره، اما دوبله‌ش چیزی بود که اون رو چند مرحله فراتر می‌برد و بی‌نقص می‌کرد.
