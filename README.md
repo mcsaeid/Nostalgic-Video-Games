@@ -23,8 +23,8 @@
 <details>
 <summary><b>پیش‌گفتار</b></summary>
 
-#### [پیشینه](https://github.com/mcsaeid/Nostalgic-Video-Games/edit/main/README.md#%D9%BE%DB%8C%D8%B4%DB%8C%D9%86%D9%87-1)
-#### [اولین کامپیوتر](https://github.com/mcsaeid/Nostalgic-Video-Games/edit/main/README.md#%D8%A7%D9%88%D9%84%DB%8C%D9%86-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-1)
+#### [پیشینه](https://github.com/mcsaeid/Nostalgic-Video-Games#%D9%BE%DB%8C%D8%B4%DB%8C%D9%86%D9%87-1)
+#### [اولین کامپیوتر](https://github.com/mcsaeid/Nostalgic-Video-Games#%D8%A7%D9%88%D9%84%DB%8C%D9%86-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-1)
 <br>
 </details>
 <details>
